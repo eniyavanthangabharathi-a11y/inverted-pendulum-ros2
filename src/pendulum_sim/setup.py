@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
 		'pendulum_sim_node = pendulum_sim.pendulum_sim_node:main',
+		'controller_node = pendulum_sim.controller_node:main',
         ],
     },
 )

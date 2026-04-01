@@ -1,5 +1,7 @@
+/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/controller_node.py
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/pendulum_sim_node.py
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/__init__.py
+/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/__pycache__/controller_node.cpython-310.pyc
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/__pycache__/pendulum_sim_node.cpython-310.pyc
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/__pycache__/__init__.cpython-310.pyc
 /home/eniya/ros2_ws/install/pendulum_sim/share/ament_index/resource_index/packages/pendulum_sim
@@ -11,4 +13,5 @@
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim-0.0.0-py3.10.egg-info/top_level.txt
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim-0.0.0-py3.10.egg-info/SOURCES.txt
 /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/eniya/ros2_ws/install/pendulum_sim/lib/pendulum_sim/controller_node
 /home/eniya/ros2_ws/install/pendulum_sim/lib/pendulum_sim/pendulum_sim_node
