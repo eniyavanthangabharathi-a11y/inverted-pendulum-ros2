@@ -1,0 +1,22 @@
+[0.381s] Invoking command in '/home/eniya/ros2_ws/src/pendulum_sim': PYTHONPATH=/home/eniya/ros2_ws/build/pendulum_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pendulum_sim build --build-base /home/eniya/ros2_ws/build/pendulum_sim/build install --record /home/eniya/ros2_ws/build/pendulum_sim/install.log --single-version-externally-managed install_data
+[0.532s] running egg_info
+[0.532s] writing ../../build/pendulum_sim/pendulum_sim.egg-info/PKG-INFO
+[0.532s] writing dependency_links to ../../build/pendulum_sim/pendulum_sim.egg-info/dependency_links.txt
+[0.532s] writing entry points to ../../build/pendulum_sim/pendulum_sim.egg-info/entry_points.txt
+[0.532s] writing requirements to ../../build/pendulum_sim/pendulum_sim.egg-info/requires.txt
+[0.533s] writing top-level names to ../../build/pendulum_sim/pendulum_sim.egg-info/top_level.txt
+[0.534s] reading manifest file '../../build/pendulum_sim/pendulum_sim.egg-info/SOURCES.txt'
+[0.534s] writing manifest file '../../build/pendulum_sim/pendulum_sim.egg-info/SOURCES.txt'
+[0.534s] running build
+[0.534s] running build_py
+[0.535s] running install
+[0.535s] running install_lib
+[0.536s] running install_data
+[0.536s] running install_egg_info
+[0.538s] removing '/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[0.538s] Copying ../../build/pendulum_sim/pendulum_sim.egg-info to /home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim-0.0.0-py3.10.egg-info
+[0.538s] running install_scripts
+[0.552s] Installing controller_node script to /home/eniya/ros2_ws/install/pendulum_sim/lib/pendulum_sim
+[0.552s] Installing pendulum_sim_node script to /home/eniya/ros2_ws/install/pendulum_sim/lib/pendulum_sim
+[0.552s] writing list of installed files to '/home/eniya/ros2_ws/build/pendulum_sim/install.log'
+[0.570s] Invoked command in '/home/eniya/ros2_ws/src/pendulum_sim' returned '0': PYTHONPATH=/home/eniya/ros2_ws/build/pendulum_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pendulum_sim build --build-base /home/eniya/ros2_ws/build/pendulum_sim/build install --record /home/eniya/ros2_ws/build/pendulum_sim/install.log --single-version-externally-managed install_data

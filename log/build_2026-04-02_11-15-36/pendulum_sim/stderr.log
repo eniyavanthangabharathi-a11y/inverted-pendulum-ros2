@@ -1,0 +1,5 @@
+  File "/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/controller_node.py", line 35
+    def main (args =  None)
+                           ^
+SyntaxError: expected ':'
+
