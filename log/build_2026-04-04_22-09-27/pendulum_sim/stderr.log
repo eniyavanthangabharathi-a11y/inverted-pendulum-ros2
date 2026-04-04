@@ -1,0 +1,5 @@
+  File "/home/eniya/ros2_ws/install/pendulum_sim/lib/python3.10/site-packages/pendulum_sim/motor_node.py", line 18
+    		self.get_logger().info(f'Command: {command} -> 	PWM: {pwm}'}
+    		                                               	           ^
+SyntaxError: closing parenthesis '}' does not match opening parenthesis '('
+

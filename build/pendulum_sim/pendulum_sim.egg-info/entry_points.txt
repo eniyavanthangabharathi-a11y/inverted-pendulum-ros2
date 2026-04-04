@@ -1,4 +1,5 @@
 [console_scripts]
 controller_node = pendulum_sim.controller_node:main
+motor_node = pendulum_sim.motor_node:main
 pendulum_sim_node = pendulum_sim.pendulum_sim_node:main
 

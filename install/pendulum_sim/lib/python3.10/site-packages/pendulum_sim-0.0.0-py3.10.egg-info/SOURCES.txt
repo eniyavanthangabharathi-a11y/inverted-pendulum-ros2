@@ -10,6 +10,7 @@ setup.py
 ../../build/pendulum_sim/pendulum_sim.egg-info/zip-safe
 pendulum_sim/__init__.py
 pendulum_sim/controller_node.py
+pendulum_sim/motor_node.py
 pendulum_sim/pendulum_sim_node.py
 resource/pendulum_sim
 test/test_copyright.py
